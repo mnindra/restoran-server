@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Admin Restoran</title>
+    <title>Admin Warung Sederhana</title>
     <link rel="stylesheet" href="/css/app.css">
   </head>
   <body>
@@ -16,7 +16,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Admin Restoran</a>
+          <a class="navbar-brand" href="#">Admin Warung Sederhana</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
